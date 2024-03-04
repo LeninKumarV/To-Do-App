@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "datetime": "July 02, 2023 11:16:31 AM",
+      "body": "I attended a Defi Blockchain Event"
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "July 03, 2023 11:16:31 AM",
+      "body": "Web3 global summit next week"
+    },
+    {
+      "id": "4",
+      "title": "My Fourth Post",
+      "datetime": "July 04, 2023 11:16:51 AM",
+      "body": "ETH will outperform in BTC"
+    },
+    {
+      "id": "41",
+      "title": "my First post",
+      "datetime": "March 01,2024 1:09:27 PM",
+      "body": "hi guys ,how are you.\ni hope you doing well"
+    }
+  ]
+}
